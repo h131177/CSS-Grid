@@ -20,3 +20,7 @@ Lesson 6: Aligning & justifying items
 Lesson 7: Create a 12-column Grid
 
 Lesson 8: Mosaic layout (Rotated)
+
+Lesson 9: Grid Areas
+
+Lesson 10: Responsive Grid
